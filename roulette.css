@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+body {
+	background: url(https://i.redd.it/xxkwrzyxxhjx.png) center center / cover no-repeat fixed;
+	font-family: "Monotype Corsiva"
+}
+
+.top-text {
+	font-size: 40px;
+	color: yellow;
+	float: left;
+	padding-right: 50px;
+}
+
+#button {
+	font-size: 30px;
+	cursor: pointer;
+	color: white;
+	background-color: transparent;
+	
+}
+
+.contain {
+	display: inline-block;
+    background-color: black;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: 30px 30px 30px 30px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    background-size: contain;
+    border-radius: 50%;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.yoshi {
+	background-image: url(https://i.pinimg.com/originals/7b/c6/be/7bc6be7bd10202091d6ec33ccd8835a9.jpg);
+}
+
+.kenny {
+	background-image: url(https://i.pinimg.com/originals/21/81/e8/2181e860028dcbd7342de0471c64b0b2.jpg);
+  	
+}
+
+.tetsuya {
+	background-image: url(https://vignette.wikia.nocookie.net/batman/images/f/f3/Batman_%26_Robin_-_Mr._Freeze.jpg);
+  	
+}
+
+.jun {
+	background-image: url(https://vignette.wikia.nocookie.net/batman/images/8/89/Batman_Forever_-_The_Riddler_8.jpg);
+  	}
+
+.eiichi {
+	background-image: url(https://www.manga-kosatsu.tokyo/wp-content/uploads/2017/02/91SXzvd1QjL._SL1426_-300x224.jpg);
+  	
+}
